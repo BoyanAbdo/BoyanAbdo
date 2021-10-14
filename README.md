@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoyanAbdo
+- 👋 Hello World, I’m @BoyanAbdo
 - 👀 I’m interested in... Web & .NET Development
 - 🌱 I’m currently learning... algorithms & ASP.NET
 - 💞️ I’m looking for opportunities at the moment...
